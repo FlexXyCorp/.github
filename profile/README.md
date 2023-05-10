@@ -18,4 +18,4 @@ Links
 </h1>
 <li align="center">
 <img src="https://cdn.discordapp.com/avatars/945224613057683516/8a4ed7eb2fad0f0cbf3c7ff2dc336969.webp?size=1024" width="25" height="25"/> <a href="https://discord.com/api/oauth2/authorize?client_id=945224613057683516&permissions=8&scope=bot"> Invite Saturn to your discord server</a></li>
-<li align="center"><img src="https://e7.pngegg.com/pngimages/233/393/png-clipart-discord-computer-icons-android-challenge-logo-smiley.png" width="25" height="25"/><a href="https://discord.gg/ndJyxZs3sF"> Join our discord server !</a></li>"# .github" 
+<li align="center"><img src="https://e7.pngegg.com/pngimages/233/393/png-clipart-discord-computer-icons-android-challenge-logo-smiley.png" width="25" height="25"/><a href="https://discord.gg/ndJyxZs3sF"> Join our discord server !</a></li>
